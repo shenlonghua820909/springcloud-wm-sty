@@ -1,0 +1,7 @@
+com/atguigu/springcloud/alibaba/SeataStorageMainApp2002.class
+com/atguigu/springcloud/alibaba/controller/StorageController.class
+com/atguigu/springcloud/alibaba/config/MybatisConfig.class
+com/atguigu/springcloud/alibaba/dao/StorageDao.class
+com/atguigu/springcloud/alibaba/service/impl/StorageServiceimpl.class
+com/atguigu/springcloud/alibaba/service/StorageService.class
+com/atguigu/springcloud/alibaba/config/DataSourceProxyConfig.class

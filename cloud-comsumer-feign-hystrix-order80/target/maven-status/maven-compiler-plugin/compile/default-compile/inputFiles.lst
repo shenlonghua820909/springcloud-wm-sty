@@ -1,0 +1,4 @@
+/Users/longhua.shen/Documents/IdeaProjects/SpringCloud/cloud-comsumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java
+/Users/longhua.shen/Documents/IdeaProjects/SpringCloud/cloud-comsumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/PaymentHystrixService.java
+/Users/longhua.shen/Documents/IdeaProjects/SpringCloud/cloud-comsumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/service/fallback/PaymentFallbackHystrixService.java
+/Users/longhua.shen/Documents/IdeaProjects/SpringCloud/cloud-comsumer-feign-hystrix-order80/src/main/java/com/atguigu/springcloud/OrderHystrixMain80.java
